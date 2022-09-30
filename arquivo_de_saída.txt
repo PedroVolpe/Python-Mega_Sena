@@ -1,0 +1,10 @@
+CONCURSO MEGA SENA DA VIRADA
+PRÊMIO: 110000000.0
+NÚMEROS SORTEADOS
+8 9 41 45 49 55
+GANHADORES:
+FAIXA   |  GANHADORES   |       PREMIO         | DIVISAO
+SENA    | 0        |    0              | 0
+QUINA   | 1       |    55000000.0            | 55000000.0
+QUADRA  | 51      |    55000000.0            | 1078431.0
+Não acumula!
