@@ -1,6 +1,6 @@
-#Nome: Oliver Kieran Galvão McCormack      TIA: 42122058
+#Nome: Oliver Kieran Galvão McCormack      
 
-#Nome: PEDRO LOUREIRO MORONE BRANCO VOLPE  TIA: 42131936
+#Nome: PEDRO LOUREIRO MORONE BRANCO VOLPE  
 
 import random
 
